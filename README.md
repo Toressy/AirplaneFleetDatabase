@@ -30,6 +30,3 @@ This project is a relational database system built using Microsoft Access as par
 2. Review the database schema, forms, queries, and reports.
 3. SQL scripts can be found in the `/script` directory for review or re-implementation in another DBMS.
 
-## 🎓 Educational Context
-
-This database system was developed for the 5CC507 module at Coventry University as part of the CW2 assignment on data modeling and implementation.
